@@ -1,4 +1,4 @@
-flask
-youtube-transcript-api
-transformers
-validators
+Flask==2.1.1
+youtube-transcript-api==0.5.0
+transformers==4.22.0
+validators==0.18.2
